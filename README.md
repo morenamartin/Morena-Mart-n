@@ -19,5 +19,6 @@ En este momento, busco oportunidades en el área de frontend para seguir aprendi
   -Git, GitHub, Figma
 
 -OBJETIVO PROFESIONAL
+
 Busco desarrollarme en el área de frontend, aportando valor desde lo visual y funcional.
 Quiero seguir aprendiendo, mejorar mis habilidades en diseño de interfaces y experiencia de usuario, y formar parte de equipos donde pueda crecer profesionalmente y participar en proyectos reales.
