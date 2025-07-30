@@ -27,5 +27,7 @@ Quiero seguir aprendiendo, mejorar mis habilidades en diseño de interfaces y ex
 
 
 -<strong>MIS DATOS DE CONTACTO</strong>
-  -mail: martinmorena269@gmail.com
-  -linkedin: www.linkedin.com/in/morena-martín-979756308
+
+  -Mail: martinmorena269@gmail.com
+  
+  -Linkedin: www.linkedin.com/in/morena-martín-979756308
