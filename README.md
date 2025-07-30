@@ -9,15 +9,15 @@ En este momento, busco oportunidades en el área de frontend para seguir aprendi
 
 -<strong>TECNOLOGÍAS CON LAS QUE TRABAJÉ:</strong>
 
-    -HTML, CSS, JavaScript, TypeScript
+-HTML, CSS, JavaScript, TypeScript
 
-    -React, Next.js
+-React, Next.js
   
-    -Node.js, Express
+-Node.js, Express
   
-    -PostgreSQL, MongoDB
+-PostgreSQL, MongoDB
   
-    -Git, GitHub, Figma
+-Git, GitHub, Figma
 
 
 -<strong>OBJETIVO PROFESIONAL</strong>
@@ -28,6 +28,6 @@ Quiero seguir aprendiendo, mejorar mis habilidades en diseño de interfaces y ex
 
 -<strong>MIS DATOS DE CONTACTO</strong>
 
-    -Mail: martinmorena269@gmail.com
+-Mail: martinmorena269@gmail.com
   
-    -Linkedin: www.linkedin.com/in/morena-martín-979756308
+-Linkedin: www.linkedin.com/in/morena-martín-979756308
