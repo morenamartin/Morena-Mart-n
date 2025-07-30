@@ -24,3 +24,8 @@ En este momento, busco oportunidades en el área de frontend para seguir aprendi
 
 Busco desarrollarme en el área de frontend, aportando valor desde lo visual y funcional.
 Quiero seguir aprendiendo, mejorar mis habilidades en diseño de interfaces y experiencia de usuario, y formar parte de equipos donde pueda crecer profesionalmente y participar en proyectos reales.
+
+
+-<strong>MIS DATOS DE CONTACTO</strong>
+  -mail: martinmorena269@gmail.com
+  -linkedin: www.linkedin.com/in/morena-martín-979756308
