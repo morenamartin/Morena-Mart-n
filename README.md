@@ -1,5 +1,6 @@
 # Morena-Mart-n
 -Sobre mi
+
 Soy desarrolladora web en formación, enfocada en el frontend. Actualmente estudio desarrollo full stack en Henry, donde reforcé mi interés por la parte visual e interactiva de las aplicaciones.
 
 Me gusta construir interfaces claras, funcionales y con atención al detalle. Trabajo bien de forma autónoma y también en equipo.
