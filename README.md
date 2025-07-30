@@ -1,5 +1,5 @@
 # Morena Martín
--SOBRE MI
+-<strong>SOBRE MI</strong>
 
 Soy desarrolladora web en formación, enfocada en el frontend. Actualmente estudio desarrollo full stack en Henry, donde reforcé mi interés por la parte visual e interactiva de las aplicaciones.
 
