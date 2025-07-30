@@ -8,15 +8,15 @@ En este momento, busco oportunidades en el área de frontend para seguir aprendi
 
 -Tecnologías con las que trabajé:
 
-HTML, CSS, JavaScript, TypeScript
+  -HTML, CSS, JavaScript, TypeScript
 
-React, Next.js
-
-Node.js, Express
-
-PostgreSQL, MongoDB
-
-Git, GitHub, Figma
+  -React, Next.js
+  
+  -Node.js, Express
+  
+  -PostgreSQL, MongoDB
+  
+  -Git, GitHub, Figma
 
 -Objetivo profesional
 Busco desarrollarme en el área de frontend, aportando valor desde lo visual y funcional.
