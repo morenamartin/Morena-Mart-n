@@ -6,6 +6,7 @@ Soy desarrolladora web en formación, enfocada en el frontend. Actualmente estud
 Me gusta construir interfaces claras, funcionales y con atención al detalle. Trabajo bien de forma autónoma y también en equipo.
 En este momento, busco oportunidades en el área de frontend para seguir aprendiendo y creciendo profesionalmente.
 
+
 -<strong>TECNOLOGÍAS CON LAS QUE TRABAJÉ:</strong>
 
   -HTML, CSS, JavaScript, TypeScript
@@ -17,6 +18,7 @@ En este momento, busco oportunidades en el área de frontend para seguir aprendi
   -PostgreSQL, MongoDB
   
   -Git, GitHub, Figma
+
 
 -<strong>OBJETIVO PROFESIONAL</strong>
 
